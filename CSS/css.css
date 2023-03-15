@@ -13,3 +13,33 @@ body{
     color: white;
     font-size: 20px;
   }
+  .contenedor{
+    max-width: 100%;
+    border:5px ridge;
+    background-color: rgb(255, 255, 255);
+    height: 70vh;
+    margin: 5%;
+    flex-direction:column ;
+  
+    display:flex ;
+    justify-content:center;
+    align-items: center;
+  }
+  .imagen{
+    height: 400px;
+    margin:5%;
+    display: flex;
+    justify-content:center;
+    border:5px ridge;
+  }
+  button {
+    display: block;
+    margin: 20px auto;
+    padding: 30px;
+    background-color: #ff0000;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 40px;
+  }
