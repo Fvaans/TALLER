@@ -43,3 +43,11 @@ body{
     cursor: pointer;
     font-size: 40px;
   }
+  footer {
+    text-align: center;
+    background-color: #ff0000;
+    color: #fff;
+    padding: 40px;
+    font-size: 40px;
+  
+  }
